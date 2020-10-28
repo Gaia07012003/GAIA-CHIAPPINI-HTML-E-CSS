@@ -103,3 +103,21 @@ body{
   font-family: 'Open Sans Condensed', sans-serif;
   line-height: 40px;
 }
+
+/* PAGINA MYWORKS.HTML!!!! */
+
+.works{
+  background-color:#f6f6f6;
+  height: 300px;
+  margin-top: 100px;
+  opacity:0.8;
+  font-size:20px;
+  text-align: center;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  font-family:'Open Sans Condensed', sans-serif;
+}
+.works p{
+  font-style:oblique;
+}
