@@ -121,3 +121,18 @@ body{
 .works p{
   font-style:oblique;
 }
+.projects{
+width: 600px;
+margin-left:auto;
+margin-right:auto;
+}
+.projects img{
+  width:500px;
+  display:block;
+}
+.projects div{
+  margin-top:30px;
+}
+.project3{
+  margin-bottom:30px;
+}
